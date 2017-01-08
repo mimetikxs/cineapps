@@ -1,5 +1,3 @@
-Part of the project *Cinegrafias Movistar+* for Espadaysantacruz Studio.
-
 # Data analysis and visualization
 
 ### colorAnalysis
